@@ -1,5 +1,7 @@
 # Matched Field Processsing for complex Earth structure
 
+<img align="left" src="assets/mfp.png" width="200px">
+
 Repository to accompany the paper entitled "Matched Field Processsing for complex Earth structure" by Schippkus & Hadziioannou, published as pre-print on EarthArXiv (---) and submitted to --- for peer review.
 
 Here, we provide all scripts and data necessary to reproduce all of our results.
