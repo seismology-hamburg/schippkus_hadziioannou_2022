@@ -4,7 +4,7 @@
 
 <img align="left" src="assets/mfp.png" width="400px">
 
-Repository to accompany the paper entitled "Matched Field Processsing for complex Earth structure" by Schippkus & Hadziioannou, published as pre-print on EarthArXiv (---) and submitted to --- for peer review.
+Repository to accompany the paper entitled "Matched Field Processsing for complex Earth structure" by Schippkus & Hadziioannou, published as pre-print on EarthArXiv ([doi.org/10.31223/X5492H](https://doi.org/10.31223/X5492H)) and submitted to Geophysical Journal International for peer review.
 
 Here, we provide all scripts and data necessary to reproduce all of our results.
 
